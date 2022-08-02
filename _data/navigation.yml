@@ -9,11 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Software"
-    url: /software/
-
   - title: "Posts"
     url: /posts/
     
-  - title: "CV"
+  - title: "Bio"
     url: /cv/
