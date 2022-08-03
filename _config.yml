@@ -119,30 +119,6 @@ author:
   youtube          :
   wikipedia        :
 
-scholar:
-
-  last_name: Milana
-  first_name: Edoardo
-
-  style: apa
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  source: /_publications/
-  bibliography: milana.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: publications
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-
 # Reading Files
 include:
   - .htaccess
