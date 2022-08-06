@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc...
+I am currently a Research Associate at the German Aerospace Center (DLR)
