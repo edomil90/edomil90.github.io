@@ -65,10 +65,7 @@ for pubsource in publist:
         pub_month = "01"
         pub_day = "01"
         
-        b = bibdata.entries[bib_id].fields
-
-        print(b)
-        
+        b = bibdata.entries[bib_id].fields        
         try:
             pub_year = f'{b["year"]}'
 
@@ -104,6 +101,8 @@ for pubsource in publist:
             for author in bibdata.entries[bib_id].persons["author"]:
                 if author.last_names[0] == "Milana":
                     citation = citation+" <b>"+author.first_names[0]+" "+author.last_names[0]+"</b>, "
+                elif len(author.last_names)>1:
+                    citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+" "+author.last_names[1]+", "
                 else:
                     citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
