@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Associate at the German Aerospace Center (DLR)
+I am currently a Postodoctoral Research Associate at [Freiburg Center for Interactive Materials and Bioinspired Technologies](https://www.fit.uni-freiburg.de/)
