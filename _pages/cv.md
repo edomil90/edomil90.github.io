@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-I was born in Rome, Italy, in 1990. I hold a Bachelor’s degree in Mechanical Engineering and a Master’s degree in Nanotechnology
-Engineering both from the University of Rome La Sapienza (Italy) and I received my PhD in Engineering Science in 2020 from KU Leuven (Belgium).
+I hold a BSc (2012) in Mechanical Engineering and a MSc (2015) in Nanotechnology Engineering both from the University of Rome La Sapienza and a PhD (2020) in Engineering Science from KU Leuven, advised by Prof. Dominiek Reynaerts, Prof. Michael De Volder and Prof. Benjamin Gorissen. In 2019 I was Visiting Researcher at the Interdisciplinary Centre of Excellence for Nanostructured Materials and Interfaces of the University of Milan, under the supervision of Prof. Paolo Milani. From 2020 to 2022 I was Research Scientist at the Institute for the Protection of Terrestrial Infrastructure of the German Aerospace Center (DLR).
 
-My research focusses on the design and manufacturing of bioinspired soft robotic systems and soft actuators at different scales. I am active in the fields of Soft Machines, Microengineering and Embodied Artificial Intelligence. I have published 17 papers on refereed journals and proceedings of international conferences. I serve as Review Editor for the journal Frontiers in Robotics and AI and I have reviewed papers for the journals Soft Robotics, IEEE Robotics and Automation Letters, Robotics and Autonomous Systems, Ocean Engineering and international conferences IEEE RoboSoft and IEEE ICRA.
+My detailed CV is here!
 
-I have received the Best communication paper award at IEEE RoboSoft 2021. I have been recipient of an FWO (Flemish Research Foundation) grant for a three-months visiting stay at the University of Milan. I have been selected for the Freiburg Rising Stars Academy 2021/2022.
+
