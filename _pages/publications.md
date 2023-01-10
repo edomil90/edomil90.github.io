@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-See <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> for the updated list.
+See my [Google Scholar](https://scholar.google.com/citations?user=LCRSDzEAAAAJ&hl=en) profile for the updated list.
 
 {% include base_path %}
 
