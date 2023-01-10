@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Dr. Edoardo Milana"
   avatar           : "foto_edoardo.png"
-  bio              : "Robotics Matter"
-  location         : "Freiburg Im Breisgau, Germany"
-  employer         : "FIT Freiburg Center for Interactive Materials and Bioinspired Technologies, University of Freiburg"
+  bio              : "Soft Robotics"
+  location         : 
+  employer         : "University of Freiburg"
   pubmed           :
   orcid            : "https://orcid.org/0000-0003-3389-3039"
   googlescholar    : "https://scholar.google.com/citations?user=LCRSDzEAAAAJ&hl=en"
