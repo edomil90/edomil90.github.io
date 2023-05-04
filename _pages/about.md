@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the SoftLab fo Uni Freiburg!"
+title: "Welcome to the SoftLab of Uni Freiburg!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
