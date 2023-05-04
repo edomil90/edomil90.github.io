@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Edoardo Milana"
+title                    : "SoftLab"
 title_separator          : "-"
-name                     : &name "Dr. Edoardo Milana"
-description              : &description "Postdoc in Soft Robotics"
+name                     : &name "Prof. Dr. Edoardo Milana"
+description              : &description "Laboratory of Soft Machines at IMTEK, Uni Freiburg"
 url                      : "https://edomil90.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edomil90/edomil90.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Dr. Edoardo Milana"
   avatar           : "foto_edoardo.png"
-  bio              : "Soft Robotics"
+  bio              : "SoftLab at IMTEK"
   location         : 
   employer         : "University of Freiburg"
   pubmed           :
