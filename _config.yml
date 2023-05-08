@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SoftLab @ Uni Freiburg"
+title                    : "SoftLab @ University of Freiburg"
 title_separator          : "-"
 name                     : &name "Prof. Dr. Edoardo Milana"
 description              : &description "Laboratory of Soft Machines at IMTEK, Uni Freiburg"
@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laboratory for Soft Machines"
+  name             : "SoftLab"
   avatar           : "foto_edoardo.png"
-  bio              : "SoftLab at IMTEK"
+  bio              : "Laboratory of Soft Machines"
   location         : 
   employer         : "University of Freiburg"
   pubmed           :
